@@ -16,9 +16,8 @@ Users should be able to:
 
 ### My Solution
 
-- Source Code: [Here](https://github.com/Chillie15/dice-game)
-- Source Code (Javascript Vanilla): [Here](https://github.com/reskialamsyah/dice-game-js-vanilla)
-- Live Site: [Here](https://reskialamsyah.github.io/dice-game/)
+- Source Code: [Here](https://github.com/Chillie15/dice-game-js)
+- Live Site: [Here](https://reskialamsyah.github.io/dice-game-js/)
 
 ## My process
 
